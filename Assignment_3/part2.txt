@@ -1,9 +1,0 @@
-The provided training data comprises of 25000 reviews. At home, I had to 
-work on my old pentium laptop so I only used 1000 reviews and wrote and
-tested the complete code which is all good. 
-
-Due to this reason, I could not effectively predict on test data, however
-as already said, the complete code is there and you only need to run it 
-for all 25000 reviews and model will be as good as gold.
-
-I hope you will help me and accomodate it.
